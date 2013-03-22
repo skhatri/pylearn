@@ -31,3 +31,11 @@ print 2 ** 3
 name="John"
 print name
 
+
+#modulus gives the remainder
+print 8%3
+#e notation to hold really small or really big numbers
+#9.00300496552e+13
+print 89999000000.2353 * 1000.345
+#3.61902828953e-07
+print 0.0000009322029929 * 0.3882232
