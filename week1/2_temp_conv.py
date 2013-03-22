@@ -32,3 +32,11 @@ print z, type(z)
 
 
 #Exercise convert a F into Celcius using the above formula. Hint you need to find C this time.
+
+#Find the 6^5 using two different ways. Store the result into 2 different names. Print the result
+
+
+#rounds down as it looses the decimal part of the number
+print int(13.89)
+print int(1.9999)
+
