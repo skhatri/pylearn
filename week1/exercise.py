@@ -20,3 +20,6 @@ Enter temperature in Celcius: 37.5
 Farenheit equivalent of 37.5 Celcius is 99.5
 Thank you for using my temperature calculator
 """
+
+#Exercise - 3
+#Print the value of PI

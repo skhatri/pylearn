@@ -5,9 +5,9 @@
 """
 Example:
 
-    Enter first number: 2
-    Enter second number: 3
-    The sum of 2 and 3 is 5
+    Enter value of x: 2
+    Enter value of y: 3
+    2 to the power of 3 is 8
 """
 
 
@@ -33,5 +33,6 @@ Enter diameter of the circle: 6
 
 The radius of the circle is: 3
 The area of the circle is: 28.27
+The perimeter of the circle is: 18.84
 """
 
