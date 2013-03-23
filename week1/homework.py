@@ -25,14 +25,15 @@ Thank you for using my temperature calculator
 #work for any given input, not just 37.5 and 99.5.
 
 #Homework - 3
-#Create a program which prompts the user for a diameter of a circle. It then calculates and prints the area of the circle.
+#Create a program which prompts the user for a diameter of a circle. It then calculates and prints the circumference
+#and area of the circle.
 """
 Example
 
 Enter diameter of the circle: 6
 
-The radius of the circle is: 3
-The area of the circle is: 28.27
-The perimeter of the circle is: 18.84
+The radius of the circle is: 3.0
+The area of the circle is: 28.274338823
+The circumference of the circle is: 18.8495559215
 """
 
