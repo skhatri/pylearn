@@ -10,8 +10,8 @@ print """Hello World - Triple Quotes"""
 #\n prints a new line
 #\t prints a tab
 print "Hi. " * 5
-print "Name: \tSuresh"
-print "City: \tHurstville"
+print "Name \t\tSuresh"
+print "Suburb\t\tHurstville"
 
 #addition
 print 2 + 4
